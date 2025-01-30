@@ -19,7 +19,7 @@ corex-api = "0.1.1"
 
 ```rust
 use auth_extension::AuthExtension;
-use corex::CoreX;
+use corex_api::CoreX;
 use std::sync::Arc;
 
 #[tokio::main]
